@@ -1,5 +1,5 @@
 ## Node.js
-building a contact manager backend practical application from scratch, project covers Nodejs, Express, MongoDB & JWT Topics.
+building a practical application about contact manager backend, project covers Nodejs, Express, MongoDB & JWT ( JSON Web Tokens ) Topics.
 
 ## 機本操作
 - 執行檔案 ( cmd ) : node <file_name>
@@ -13,4 +13,6 @@ building a contact manager backend practical application from scratch, project c
 - 切換到 D 槽 : d:
   
 ----------------------------
-refer : https://www.youtube.com/watch?v=H9M02of22z4
+refer
+- https://www.youtube.com/watch?v=H9M02of22z4
+- https://jwt.io/
